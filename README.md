@@ -35,7 +35,7 @@ rake already installed.
 
 ## ADVANCED USAGE
 
-By default the remote origin is the github vagrant-drupal.  It is
+By default the remote origin is the github vagrant-rails.  It is
 designed to function after you clone it for development and testing purposes.
 This means you can commit to your local repository and track upstream changes.
 This is useful for single user development workflow.  However we also kept in
